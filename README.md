@@ -1,6 +1,6 @@
-<p align="center">
-    <img src="https://www.hackingwithswift.com/files/wwdc/wwdc-community.png" alt="WWDC Community logo" width="600" />
-</p>
+
+![WWDC Community Logo](images/wwdc-community.png)
+
 
 The Apple development community is open and inclusive to everyone, and during WWDC we want to make sure everyone can join events, share articles about Apple’s new announcements, or just hang out with like-minded folks.
 
